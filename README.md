@@ -19,8 +19,8 @@ $.fn.autoWH = function(w,h,sp){
 }(jQuery));
 ```
 3.JS封装模块
-```
 - [jsModule](https://github.com/freedom-diy/jsComponent/blob/master/views/jsModule/jsModule.html)
+```
 	(function(){
 		//内部代码
 		//暴露API接口
