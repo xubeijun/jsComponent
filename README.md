@@ -4,8 +4,7 @@
 
 	1.$.fn的方式，去扩展jQuery插件。
 	jsComponent\views\jqExtend\jQueryExtend.html
-	
-	<br />
+		
 	2.匿名函数封装扩展代码。
 	jsComponent\views\jqExtend\jqnoConflict.html
 	(function($){
